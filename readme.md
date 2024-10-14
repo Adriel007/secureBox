@@ -14,3 +14,5 @@ Utilização de virtualização de containers isolados para servir de túnel, co
 - Captcha e login ao acessar
 - DNS estático e seguro
 - Container leve 
+- Invisibilidade na rede contra scan
+- IP local aleatório
